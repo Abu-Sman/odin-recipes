@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is the first project of The Odin Foundation project. This project allows me to practiced my newly aquired HTML skills to build a simple recipe website.
+This is the first project of The Odin Project Foundations course. This project allowed me to practice my newly acquired HTML skills by building a simple recipe website.
